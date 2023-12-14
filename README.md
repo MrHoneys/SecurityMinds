@@ -9,6 +9,11 @@ Estamos empenhados em levar o SecurityMinds a um patamar superior, buscando cons
 
 Ao utilizar o comando **>>port**, os usuários podem iniciar uma varredura detalhada e obter um relatório abrangente das portas abertas, fornecendo informações valiosas para reforçar a segurança ou identificar possíveis pontos de entrada para ataques.
 
+![01](https://github.com/MrHoneys/SecurityMinds/assets/143344101/a3802712-fe0d-429d-890a-df96cde768df)
+
+
+![02](https://github.com/MrHoneys/SecurityMinds/assets/143344101/6d2e742a-4ecf-4dfe-9231-5f0e9970479b)
+
 
 ## Melhorias de Design e Usabilidade
 
